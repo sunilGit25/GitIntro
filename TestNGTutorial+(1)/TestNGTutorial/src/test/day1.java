@@ -26,7 +26,7 @@ public class day1 {
 	public void afSyite()
 	{
 		System.out.println("I am the no 1 from last ");
-		system.out.println("hurray");
+		System.out.println("hurray");
 	}
 	@Test
 	public void SecondTest()
